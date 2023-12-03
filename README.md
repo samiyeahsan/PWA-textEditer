@@ -40,7 +40,15 @@ WHEN user deploy to Heroku
 THEN user should have proper build scripts for a webpack application
 ```
 
-## Mock-Up
+
+## References
+
+*   TAs an Gary helped a lot
+*   Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
+*   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
+ 
+
+## Preview
 
 The following animation demonstrates the application functionality:
 
@@ -58,3 +66,4 @@ The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
+[Deployed Link](https://samiyeahsan.github.io/PWA-textEditer/)
