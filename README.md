@@ -51,6 +51,9 @@ THEN user should have proper build scripts for a webpack application
 ## Preview
 
 The following animation demonstrates the application functionality:
+[Screenshot of cliend folder after npm run start](./Assets/Client-folder-19.png)
+[Screenshot of npm run start](./Assets/npm-start-19.png)
+[Screenshot of npm run start part 2](./Assets/npm-start2-19.png)
 
 ![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
 
